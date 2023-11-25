@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+    background-image: url(todolist.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.h1{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.para{
+    color: white;
+    text-align:start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+.head{
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+
+}
+.second{
+    color: white;
+    text-align:start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+
+}
+.btn{
+    color: white;
+    text-align:start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    background-color: orange;
+    display: block;
+    margin: auto;
+}
+.underline{
+    color: white;
+    text-align:start;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+
+
+}
