@@ -41,6 +41,7 @@ body{
     background-color: orange;
     display: block;
     margin: auto;
+    transform: scale(2);
 }
 .underline{
     color: white;
@@ -49,6 +50,7 @@ body{
     font-weight: 600;
     text-align: center;
     text-decoration: underline;
+    
 
 
 }

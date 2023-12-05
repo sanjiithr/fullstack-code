@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+.bg
+{
+    background-image: url( https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    height: 100vh;
+    width:100vw;
+    background-repeat: no-repeat;
+    background-size:cover;
+   color :#ffffff;
+   display:flex;
+   flex-direction: column;
+   font-family: 'Roboto', sans-serif;
+   color:white;
+   
+   /* align-items: center; */
+}
+.dd{
+    background-color: #323f4b;
+    text-align: center;
+    /* padding: 25px 20px; */
+}
+.para p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    padding: 15px 20px;
+    margin-left:  400px;
+    margin-right:400px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    
+}
+.s{
+    background-color:#47a3f3 ;
+    text-align: right;
+    border-bottom-left-radius: 10px;
+}
+.a{
+    background-color: #52606d;
+    text-align: left;
+    border-bottom-right-radius: 10px;
+    padding-left: 10px;
+}
